@@ -1,0 +1,8 @@
+base
+sp
+raster
+rgdal
+dplyr
+ggplot2
+maps
+spocc
